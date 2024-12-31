@@ -4,5 +4,7 @@
 - copy paste html path to browser
 # 2-react-app
 - copy paste html path to browser
-# 2-react-app-bundler
-- npx parcel index.html
+# 3-react-app-bundler
+- npm run start_3
+# 4-react-app-jsx
+- npm run start_3
